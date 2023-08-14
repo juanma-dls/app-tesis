@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+button {
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
